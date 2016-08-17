@@ -1,5 +1,5 @@
 # HiveUDFs
-Several UDFs for Hive
+Several UDFs for Hive (Including IPv4 address to Integer converter and vice versa)
 
 
 ### IP2INT: Convert an IPv4 address (String) to an Integer.
